@@ -7,6 +7,6 @@ This repository omits the CSV survey responses due to the need to protect the co
 ## Build
 To compile results for either month's dataset, clone this repository, cd into the month's folder, open an R shell, and run
 
-'''
+```
 source("./main.R")
-'''
+```
