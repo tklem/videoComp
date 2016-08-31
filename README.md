@@ -3,3 +3,10 @@ In this project, we hope to compare two video modes with regard to how effective
 
 ## Public version
 This repository omits the CSV survey responses due to the need to protect the confidentiality of the survey respondents. If you would like a copy of the responses, please email [me](mailto:tklem2@illinois.edu) to be added as a contributor to the project.
+
+## Build
+To compile results for either month's dataset, clone this repository, cd into the month's folder, open an R shell, and run
+
+'''
+source("./main.R")
+'''
